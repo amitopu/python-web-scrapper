@@ -3,3 +3,4 @@ Lib/
 Scripts/
 *.cfg
 pyvenv.cfg
+*.js
